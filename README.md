@@ -1,6 +1,11 @@
 <div align="center">
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=200&section=header&text=Abhishek%20Rana&fontSize=60&fontColor=64ffda&fontAlignY=38&desc=CS%20%26%20AI%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=8892b0)
+# 👋 Hi, I'm Abhishek Rana
+
+### CS & AI Student | Full Stack Developer | AI Enthusiast
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Full+Stack+Developer+in+the+making+%F0%9F%9A%80;Exploring+the+frontiers+of+Gen+AI+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
