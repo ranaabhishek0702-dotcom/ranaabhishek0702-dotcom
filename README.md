@@ -35,40 +35,40 @@ const abhishek = {
 ## 📈 Skill Proficiency
 
 ### 💻 Programming Languages
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| Python | Advanced | `█████████░` 90% |
-| JavaScript | Advanced | `█████████░` 88% |
-| C++ | Beginner | `███░░░░░░░` 30% |
-| Golang | Beginner | `███░░░░░░░` 35% |
+| Skill | Proficiency |
+|-------|-------------|
+| Python | ![](https://img.shields.io/badge/Advanced-90%25-brightgreen?style=flat-square) |
+| JavaScript | ![](https://img.shields.io/badge/Advanced-88%25-brightgreen?style=flat-square) |
+| C++ | ![](https://img.shields.io/badge/Beginner-30%25-red?style=flat-square) |
+| Golang | ![](https://img.shields.io/badge/Beginner-35%25-red?style=flat-square) |
 
 ### 🌐 Frontend
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| HTML/CSS | Intermediate | `███████░░░` 70% |
-| React | Intermediate | `███████░░░` 70% |
+| Skill | Proficiency |
+|-------|-------------|
+| HTML/CSS | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
+| React | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
 
 ### ⚙️ Backend & Database
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| Node.js | Intermediate | `███████░░░` 72% |
-| Express.js | Intermediate | `███████░░░` 72% |
-| MongoDB | Intermediate | `███████░░░` 70% |
-| SQL | Intermediate | `███████░░░` 68% |
-| DBMS | Advanced | `█████████░` 88% |
+| Skill | Proficiency |
+|-------|-------------|
+| Node.js | ![](https://img.shields.io/badge/Intermediate-72%25-yellow?style=flat-square) |
+| Express.js | ![](https://img.shields.io/badge/Intermediate-72%25-yellow?style=flat-square) |
+| MongoDB | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
+| SQL | ![](https://img.shields.io/badge/Intermediate-68%25-yellow?style=flat-square) |
+| DBMS | ![](https://img.shields.io/badge/Advanced-88%25-brightgreen?style=flat-square) |
 
 ### 🤖 AI & Data Science
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| Generative AI | Intermediate | `███████░░░` 70% |
-| Agentic AI | Beginner | `████░░░░░░` 40% |
-| Matplotlib | Intermediate | `███████░░░` 68% |
+| Skill | Proficiency |
+|-------|-------------|
+| Generative AI | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
+| Agentic AI | ![](https://img.shields.io/badge/Beginner-40%25-yellow?style=flat-square) |
+| Matplotlib | ![](https://img.shields.io/badge/Intermediate-68%25-yellow?style=flat-square) |
 
 ### 🧠 Computer Science
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| System Design | Advanced | `█████████░` 88% |
-| Git/GitHub | Intermediate | `███████░░░` 72% |
+| Skill | Proficiency |
+|-------|-------------|
+| System Design | ![](https://img.shields.io/badge/Advanced-88%25-brightgreen?style=flat-square) |
+| Git/GitHub | ![](https://img.shields.io/badge/Intermediate-72%25-yellow?style=flat-square) |
 
 ## 📊 GitHub Stats
 
