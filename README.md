@@ -32,28 +32,43 @@ const abhishek = {
 
 ## 🛠️ Tech Stack
 
+## 📈 Skill Proficiency
+
+### 💻 Programming Languages
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| Python | Advanced | `█████████░` 90% |
+| JavaScript | Advanced | `█████████░` 88% |
+| C++ | Beginner | `███░░░░░░░` 30% |
+| Golang | Beginner | `███░░░░░░░` 35% |
+
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| HTML/CSS | Intermediate | `███████░░░` 70% |
+| React | Intermediate | `███████░░░` 70% |
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| Node.js | Intermediate | `███████░░░` 72% |
+| Express.js | Intermediate | `███████░░░` 72% |
+| MongoDB | Intermediate | `███████░░░` 70% |
+| SQL | Intermediate | `███████░░░` 68% |
+| DBMS | Advanced | `█████████░` 88% |
 
 ### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| Generative AI | Intermediate | `███████░░░` 70% |
+| Agentic AI | Beginner | `████░░░░░░` 40% |
+| Matplotlib | Intermediate | `███████░░░` 68% |
 
-### 🧰 Tools & Others
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+### 🧠 Computer Science
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| System Design | Advanced | `█████████░` 88% |
+| Git/GitHub | Intermediate | `███████░░░` 72% |
 
 ## 📊 GitHub Stats
 
