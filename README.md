@@ -30,45 +30,35 @@ const abhishek = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-## 📈 Skill Proficiency
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### 💻 Programming Languages
-| Skill | Proficiency |
-|-------|-------------|
-| Python | ![](https://img.shields.io/badge/Advanced-90%25-brightgreen?style=flat-square) |
-| JavaScript | ![](https://img.shields.io/badge/Advanced-88%25-brightgreen?style=flat-square) |
-| C++ | ![](https://img.shields.io/badge/Beginner-30%25-red?style=flat-square) |
-| Golang | ![](https://img.shields.io/badge/Beginner-35%25-red?style=flat-square) |
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🌐 Frontend
-| Skill | Proficiency |
-|-------|-------------|
-| HTML/CSS | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
-| React | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
-### ⚙️ Backend & Database
-| Skill | Proficiency |
-|-------|-------------|
-| Node.js | ![](https://img.shields.io/badge/Intermediate-72%25-yellow?style=flat-square) |
-| Express.js | ![](https://img.shields.io/badge/Intermediate-72%25-yellow?style=flat-square) |
-| MongoDB | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
-| SQL | ![](https://img.shields.io/badge/Intermediate-68%25-yellow?style=flat-square) |
-| DBMS | ![](https://img.shields.io/badge/Advanced-88%25-brightgreen?style=flat-square) |
+**AI & Data Science**
+![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat-square&logo=openai&logoColor=white)
+![AgenticAI](https://img.shields.io/badge/Agentic%20AI-7B2FBE?style=flat-square&logo=openai&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-### 🤖 AI & Data Science
-| Skill | Proficiency |
-|-------|-------------|
-| Generative AI | ![](https://img.shields.io/badge/Intermediate-70%25-yellow?style=flat-square) |
-| Agentic AI | ![](https://img.shields.io/badge/Beginner-40%25-yellow?style=flat-square) |
-| Matplotlib | ![](https://img.shields.io/badge/Intermediate-68%25-yellow?style=flat-square) |
-
-### 🧠 Computer Science
-| Skill | Proficiency |
-|-------|-------------|
-| System Design | ![](https://img.shields.io/badge/Advanced-88%25-brightgreen?style=flat-square) |
-| Git/GitHub | ![](https://img.shields.io/badge/Intermediate-72%25-yellow?style=flat-square) |
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square&logo=blueprint&logoColor=white)
 
 ## 📊 GitHub Stats
 
