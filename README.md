@@ -73,19 +73,14 @@ const abhishek = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rana07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranaabhishek0702-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaabhishek0702-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0"/>
 </div>
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rana07&theme=tokyonight&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranaabhishek0702-dotcom&theme=tokyonight&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 🚀 What I'm Up To
