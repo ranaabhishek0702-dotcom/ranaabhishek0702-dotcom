@@ -90,7 +90,7 @@ const abhishek = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rana.abhishek0702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana.abhishek0702@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rana07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rana07)
+
 
 </div>
 
