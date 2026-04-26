@@ -54,6 +54,7 @@ const abhishek = {
 ![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat-square&logo=openai&logoColor=white)
 ![AgenticAI](https://img.shields.io/badge/Agentic%20AI-7B2FBE?style=flat-square&logo=openai&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
